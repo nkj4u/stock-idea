@@ -6,4 +6,4 @@ python3 fetch_note_posts_selenium.py
 - あなたは米国株のアナリストです。上記の出力結果を要約してmd形式での中にファイルに出力してください
 - ファイル名のフォーマットは`./docs/market_summary_YYYYMMDD.md`です
 - 次に、この内容をもとに投資アイデアを追記してしてください
-- release/README.mdには、docs配下のmarket_summary_YYYYMMDD.mdファイルへのリンク一覧を必ず記載してください
+- ./docs/README.mdには、docs配下のmarket_summary_YYYYMMDD.mdファイルへのリンク一覧を必ず記載してください

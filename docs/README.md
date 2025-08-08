@@ -9,6 +9,7 @@
 ## ファイル一覧
 - [market_summary_20250807.md](./market_summary_20250807.md)
 - [market_summary_20250808.md](./market_summary_20250808.md)
+- [market_summary_20250809.md](./market_summary_20250809.md)
 
 ## 使い方
 
