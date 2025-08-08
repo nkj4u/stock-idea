@@ -28,7 +28,7 @@ def fetch_note_posts_selenium():
             articles.append(href)
         if len(articles) == 2:
             break
-    print("[DEBUG] articles (first 2):")
+    # print("[DEBUG] articles (first 2):")
     for i, url in enumerate(articles):
         print(f"  {i}: {url}")
     print(f"Found {len(articles)} articles.")
