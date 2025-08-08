@@ -21,17 +21,17 @@ python3 fetch_note_posts_selenium.py
 
 ### 2. 出力ファイル
 
-- 生成されるファイルは `./release/market_summary_YYYYMMDD.md` 形式で保存されます
+- 生成されるファイルは `./docs/market_summary_YYYYMMDD.md` 形式で保存されます
 - 各ファイルには市場要約と投資アイデアが含まれます
 
 ## ファイル構成
 
-```
+```text
 stock-idea/
 ├── README.md                      # このファイル
 ├── fetch_note_posts_selenium.py   # note記事取得スクリプト
 ├── prompt.txt                     # AI分析用プロンプト
-└── release/                       # 出力ディレクトリ
+└── docs/                          # 出力ディレクトリ
     ├── README.md                  # レポートファイル一覧
     ├── market_summary_20250807.md # 市場要約レポート
     └── market_summary_20250808.md # 市場要約レポート
@@ -52,4 +52,4 @@ stock-idea/
 
 ## レポート一覧
 
-生成されたレポートファイルの詳細は [release/README.md](./release/README.md) をご参照ください。
+生成されたレポートファイルの詳細は [docs/README.md](./docs/README.md) をご参照ください。
